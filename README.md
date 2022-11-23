@@ -11,14 +11,14 @@ In the bash_script repertory you will find command line script to pre process th
 
 In the R_script repertory you will find R script to perform analysis
 
-- For detached leaf
+- For detached leaf  
 fvfm_detached_leaf_ratio.R
-- For Fv/Fm analysis
-  fvfm_V2.r 
-fvfm_multiple_manip.r
-- For NPQ analysis
-  npq2_3separate_graph.R
-npq2_3separate_graph_multiple_manip.R
+- For Fv/Fm analysis  
+  fvfm_V2.r   
+fvfm_multiple_manip.r  
+- For NPQ analysis  
+  npq2_3separate_graph.R  
+npq2_3separate_graph_multiple_manip.R  
 
 
 
